@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+.idea/
+.vs/
+bin/
+obj/
+target/
+node_modules/
+*.exe
+*.dll
+*.pdb
